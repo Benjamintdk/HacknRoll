@@ -1,9 +1,9 @@
-# HacknRoll: ReNew
+# HacknRoll: Autoshelf
 
 ## Inspiration
 Exactly like what the elevator pitch describes. As the world becomes more interconnected, with retail becoming increasingly digital, there are local businesses suffering. These old shops tend to sell their goods at reasonable prices, with some even carrying deadstock which may prove to be more valuable. The biggest problem that they face is the lack of awareness, which is certainly not helped by the tendency to carry non-branded goods (such as shoes & bags) with poorly updated inventories.
 
-We are strong believers that help starts at our doorstep- if these shops were to be given the opportunity to display their inventory online, they will stand a chance at competing with other online businesses. It was from this firm belief that ReNew was born. ReNew seeks to breathe new life into the products that these shops have to offer, hopefully giving them a second chance at being owned. We felt ReNew could solve this problem through image analytics & automation.
+We are strong believers that help starts at our doorstep- if these shops were to be given the opportunity to display their inventory online, they will stand a chance at competing with other online businesses. It was from this firm belief that Autoshelf was born. Autoshelf seeks to automate the process of allowing these shops to put them up online, hopefully giving them a second chance at being owned. We felt ReNew could solve this problem through image analytics & automation.
 
 # What it does
 All the shop owner has to do is to 
