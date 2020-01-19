@@ -1,5 +1,8 @@
 # HacknRoll: Autoshelf
 
+<img width="500" alt="Capture" src="https://user-images.githubusercontent.com/45474952/72673726-7e3c8180-3aa9-11ea-9c42-19015f10bfff.PNG">
+
+
 ## Inspiration
 Exactly like what the elevator pitch describes. As the world becomes more interconnected, with retail becoming increasingly digital, there are local businesses suffering. These old shops tend to sell their goods at reasonable prices, with some even carrying deadstock which may prove to be more valuable. The biggest problem that they face is the lack of awareness, which is certainly not helped by the tendency to carry non-branded goods (such as shoes & bags) with poorly updated inventories.
 
